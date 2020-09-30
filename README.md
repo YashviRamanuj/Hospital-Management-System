@@ -1,7 +1,7 @@
 # IITJ HOSPITAL MANAGEMENT SYSTEM
 
 
-A platform where all the actions related to the health center are performed. For that, a person has to log in on the platform by his personal username and password. The credentials are verified by the admin. Once the credentials are verified, the user is classified into the following  categories : (1) Admin (2) Patient (3) Receptionist (4) Doctor (5) Pharmacist
+A platform where all the actions related to the health center are performed. For that, a person has to log in on the platform by his personal username and password. The credentials are verified by the admin. Once the credentials are verified, the user is classified into the following  categories : (1) Admin (2) Patient (3) Receptionist (4) Doctor (5) Pharmacist.
 
 
 ## Running Project
@@ -33,7 +33,7 @@ cd admin && cd mkrecords && make.bat
 
 ## Patient :
 
-After logging in, he takes the appointment by informing the convenient time and if the slot is available, the patient is sent to the receptionist for initial diagnosis. After getting the time slot allotted, the patient will be sent to the doctor, will get treatment and/or medicines. If he needs leave, a notification with required verification from the doctor’s side will be sent to the admin. The patient can check his medical record and history anytime he wants with his personal username and password.
+After logging in, patient takes the appointment by informing the convenient time and if the slot is available, he is sent to the receptionist for initial diagnosis. After alloting the time slot, the patient will be sent to the doctor, will get his treatment and/or medicines. If he needs leave, a notification with required verification from the doctor’s side will be sent to the admin. The patient can check his medical record and history anytime he wants with his personal username and password.
 
 
 ## Receptionist :
